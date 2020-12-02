@@ -1,22 +1,26 @@
 # Contributing to Zowe Documentation <!-- omit in toc -->
 
-* Overview, contact on slack
-   * Anyone can open an issue about documentation, or contribute a change with a pull request (PR) to the zowe/docs-site GitHub repository.
-   * The Zowe documentation is written in Markdown markup language. [**Learn the basic syntax**][84fff357].
-   * You need to be familiar with git and GitHub to contribute to the Zowe community. To learn about git and GitHub...
-   * Sign the CNCF Contributor License Agreement. The Contributor License Agreement defines the terms under which you contribute Zowe documentation.
-      * Contributions to Zowe documentation are reviewed before being committed to the repository. Committing chnges to the Zowe repository requires additional access rights. See https://github.com/zowe/community/blob/master/COMMITTERS.md.
-      * <!--I think the DCO signoff on commits is all they need to do to contribute. There's also a concept of becoming a Zowe "Committer" which gives you more access rights. There is a community voting process for that. A bit more info here https://github.com/zowe/community/blob/master/COMMITTERS.md  --?
-   * Fork the repository, unless you are a Zowe Committer. (double check with someone if forking is always required)
-   * Familiarize yourself with the documentation repository and the website's static site generator.
-   * DCO signoff on commits
-   * Understand the basic processes for opening a pull request and reviewing changes.
-   * Some tasks require more trust and more access in the Zowe organization. See Participating in Zowe Docs for more details about roles and permissions.
+## Before You Get Started
+You are welcome to contribute to the Zowe Documentation repository. Anyone can open an issue about documentation, or contribute a change with a pull request (PR) to the zowe/docs-site GitHub repository. However, before contributing a documentation change to the repository, you should be familiar with:
+* Git and Github: To learn about git and GitHub, see ...
+* Slack: The Zowe Documentation team communicates using the Slack application. To learn about Slack, see ...
+* Markdown Language: The Zowe documentation is written in Markdown markup language. [**Learn the basic syntax**][84fff357].
 
-*  Site organization/important files/how releases work
-*  Basic tools/setup for those that aren’t familiar although these are.
-*  Processes (open an issue, open a PR, etc…)
-*  Doc style guidelines
+In addition to being familiar with the Zowe community and how we work together, you will need to sign the CNCF Contributor License Agreement. The Contributor License Agreement defines the terms under which you contribute to Zowe documentation. Contributions to Zowe documentation are reviewed before being committed to the repository. Committing chnges to the Zowe repository requires additional access rights. See https://github.com/zowe/community/blob/master/COMMITTERS.md. Also see Participating in Zowe Documentation for more details about roles and permissions.
+
+## Getting Started Checklist
+The following is a summary of the major tasks to complete in order to be ready to contribute to the Zowe documentation repository.
+* Fork the repository, unless you are a Zowe Committer. (double check with someone if forking is always required)
+* Familiarize yourself with the documentation repository and the website's static site generator.
+* Understand the basic processes for opening a pull request and reviewing changes.
+* Site organization/important files/how releases work
+* Basic tools/setup for those that aren’t familiar although these are.
+* Processes (open an issue, open a PR, etc…)
+* Documentation style guidelines
+
+## Sending a GitHub Pull Request
+
+## Opening An Issue for Zowe Documentation
 
 - [Before you get started<a name="start"></a>](#before-you-get-started)
 - [Contributing to documentation<a name="contribute"></a>](#contributing-to-documentation)
