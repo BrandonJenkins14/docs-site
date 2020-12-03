@@ -10,8 +10,8 @@ In addition to being familiar with the Zowe community and how we work together, 
 
 ## Getting Started Checklist
 The following is a summary of the major tasks to complete in order to be ready to contribute to the Zowe documentation repository.
-* Fork the repository, unless you are a Zowe Committer. (double check with someone if forking is always required)
-* Familiarize yourself with the documentation repository and the website's static site generator.
+* If you are not yet a committer, fork the repository, (double check with someone if forking is always required)
+* Familiarize yourself with the documentation repository and the website's static site generator. (uh, what?)
 * Understand the basic processes for opening a pull request and reviewing changes.
 * Site organization/important files/how releases work
 * Basic tools/setup for those that aren’t familiar although these are.
@@ -20,7 +20,7 @@ The following is a summary of the major tasks to complete in order to be ready t
 
 ## Sending a GitHub Pull Request
 
-## Opening An Issue for Zowe Documentation
+## 2Opening An Issue for Zowe Documentation
 
 - [Before you get started<a name="start"></a>](#before-you-get-started)
 - [Contributing to documentation<a name="contribute"></a>](#contributing-to-documentation)
