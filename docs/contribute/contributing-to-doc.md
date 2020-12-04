@@ -9,11 +9,14 @@ You are welcome to contribute to the Zowe Documentation repository. Anyone can o
 In addition to being familiar with the Zowe community and how we work together, you will need to sign the CNCF Contributor License Agreement. The Contributor License Agreement defines the terms under which you contribute to Zowe documentation. Contributions to Zowe documentation are reviewed before being committed to the repository. Committing chnges to the Zowe repository requires additional access rights. See https://github.com/zowe/community/blob/master/COMMITTERS.md. Also see Participating in Zowe Documentation for more details about roles and permissions.
 
 ## Getting Started Checklist
-The following is a summary of the major tasks to complete in order to be ready to contribute to the Zowe documentation repository.
+If you are ready to get started contributing to thhe Zowe Documentation repository, complete these preliminary tasks.
+* Verify that you have completed all of the items in [Before You Get Started<a name="start"></a>](#before-you-get-started).
 * If you are not yet a committer, fork the repository, (double check with someone if forking is always required)
 * Familiarize yourself with the documentation repository and the website's static site generator. (uh, what?)
-* Understand the basic processes for opening a pull request and reviewing changes.
-* Site organization/important files/how releases work
+* Verify you can open a pull request and reviewing changes.
+* Review the site's organization
+* Review important files
+* Review the release process
 * Basic tools/setup for those that aren’t familiar although these are.
 * Processes (open an issue, open a PR, etc…)
 * Documentation style guidelines
