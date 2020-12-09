@@ -16,7 +16,7 @@ If you are ready to get started contributing to thhe Zowe Documentation reposito
   * Review important files
 * Verify you can open a pull request and review changes.
 * Review the release process
-* Basic tools/setup for those that aren’t familiar although these are.
+* Basic tools/setup for those that aren’t familiar although these are. (need some clarification on what the basoc tools and setup may be, if not already address in the Before You Get Stated section)
 * Processes (open an issue, open a PR, etc…)
 * Documentation style guidelines
 * If you are not yet a committer, fork the repository, (double check with someone if forking is always required)
